@@ -3,3 +3,4 @@ Edited the file in remote repository.
 3rd Line
 4th line
 5th line
+6th line
